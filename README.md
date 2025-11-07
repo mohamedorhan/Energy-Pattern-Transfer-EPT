@@ -21,11 +21,7 @@ This repository contains:
 - Requirements file for reproducibility
 
 ---
-
-## Paper
-
-📄 **Official Research Paper (PDF):**  
-`EEP.pdf`
+| Paper | [EPT.pdf](EPT.pdf) | Official Peer-Review Ready Research Paper |
 
 ---
 
