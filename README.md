@@ -30,7 +30,7 @@ This repository contains:
 
 ---
 
-## 🚀 Simulation Package
+##  Simulation Package
 
 | File | Description |
 |------|-------------|
@@ -67,7 +67,7 @@ Visualization Tools - Comprehensive plotting capabilities
 
 
 
-📊 Results & Performance
+Results & Performance
 The simulation demonstrates consistent performance across various scenarios:
 
 Scenario	Efficiency Gain	RMS Current Reduction	Storage Utilization
@@ -90,7 +90,7 @@ Practical Communication - Compatible with existing PLC/OFDM
 
 
 
-🔬 Scientific Contributions
+ Scientific Contributions
 This work establishes EPT as a third paradigm beyond conventional AC and DC systems through:
 
 Mathematical modeling of single/multi-node EPT systems
@@ -142,7 +142,7 @@ ORCID: 0009-0008-1139-8102
 
 GitHub: mohamedorhan
 
-🔒 Intellectual Property
+Intellectual Property
 © 2025 Mohammed Orhan Zeinel - All rights reserved.
 
 This work represents original research and is protected intellectual property. Any reproduction, use, or derivative research must cite the original author and repository. Commercial applications require explicit permission.
