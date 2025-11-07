@@ -44,6 +44,9 @@ pip install -r requirements.txt
 python example_usage.py
 Citation
 
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 If you use EPT in research, cite:Zeineli, M. O. (2025). Energy Pattern Transfer (EPT): A Third Paradigm for Electric Power Delivery.
 GitHub Repository: https://github.com/mohamedorhan/Energy-Pattern-Transfer-EPT
 
@@ -51,7 +54,10 @@ License
 
 Apache 2.0 — You are free to use, modify, extend, and reference the work with attribution.
 
-⸻
+
+
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Contact
 
