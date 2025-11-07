@@ -59,3 +59,6 @@ For research collaboration or inquiries:
 
 Email: mohamedorhanzeinel@gmail.com
 ORCID: 0009-0008-1139-8102
+
+> © Mohammed Orhan Zeineli — All rights reserved.  
+> This work is original and protected. Any reproduction, use, or derivative research must cite the original author and repository.
