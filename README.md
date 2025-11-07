@@ -64,6 +64,9 @@ Sensitivity Analysis - Parameter optimization studies
 
 Visualization Tools - Comprehensive plotting capabilities
 
+
+
+
 📊 Results & Performance
 The simulation demonstrates consistent performance across various scenarios:
 
@@ -84,6 +87,9 @@ Provably Stable Control - Lyapunov-based guaranteed convergence
 
 Practical Communication - Compatible with existing PLC/OFDM
 
+
+
+
 🔬 Scientific Contributions
 This work establishes EPT as a third paradigm beyond conventional AC and DC systems through:
 
@@ -97,8 +103,15 @@ Spectral bitrate budgeting and PLC feasibility verification
 
 Comprehensive validation through executable simulations
 
+
+
+
+
 📈 Future Work: PPEI
 Looking forward, we outline Predictive Pattern Energy Internet (PPEI) - an AI-enhanced evolution where energy delivery operates as a predictive semantic fabric, transcending traditional grid paradigms through neural-forecasted spectral scheduling.
+
+
+
 
 📝 Citation
 If you use this work in academic research, please cite:
@@ -113,10 +126,14 @@ bibtex
   publisher={GitHub},
   url={https://github.com/mohamedorhan/Energy-Pattern-Transfer-EPT}
 }
+
+
+
 📄 License
 Apache 2.0 - You are free to use, modify, extend, and reference the work with attribution.
 
-🤝 Contact & Collaboration
+
+ Contact & Collaboration
 For research collaboration, technical discussions, or inquiries:
 
 Email: mohamedorhanzeinel@gmail.com
