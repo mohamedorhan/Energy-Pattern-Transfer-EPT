@@ -64,3 +64,22 @@ ORCID: 0009-0008-1139-8102
 
 > © Mohammed Orhan Zeineli — All rights reserved.  
 > This work is original and protected. Any reproduction, use, or derivative research must cite the original author and repository.
+---
+
+## Citation
+
+If you use this work, please cite it as:
+
+**Mohamed Orhan Zeinel** (2025). *Energy Pattern Transfer (EPT): A Third Paradigm for Electric Power Delivery*. Zenodo. https://doi.org/10.5281/zenodo.17548519
+
+### BibTeX
+
+```bibtex
+@article{Zeinel2025EPT,
+  author       = {Mohamed Orhan Zeinel},
+  title        = {Energy Pattern Transfer (EPT): A Third Paradigm for Electric Power Delivery},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17548519},
+  url          = {https://doi.org/10.5281/zenodo.17548519}
+}
