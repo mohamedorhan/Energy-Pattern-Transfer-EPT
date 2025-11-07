@@ -105,7 +105,6 @@ If you use this work in academic research, please cite:
 
 Zeineli, M. O. (2025). Energy Pattern Transfer (EPT): A Third Paradigm for Electric Power Delivery. GitHub Repository. https://github.com/mohamedorhan/Energy-Pattern-Transfer-EPT
 
-BibTeX
 bibtex
 @article{zeineli2025energy,
   title={Energy Pattern Transfer (EPT): A Third Paradigm for Electric Power Delivery},
@@ -127,7 +126,7 @@ ORCID: 0009-0008-1139-8102
 GitHub: mohamedorhan
 
 🔒 Intellectual Property
-© 2025 Mohammed Orhan Zeineli - All rights reserved.
+© 2025 Mohammed Orhan Zeinel - All rights reserved.
 
 This work represents original research and is protected intellectual property. Any reproduction, use, or derivative research must cite the original author and repository. Commercial applications require explicit permission.
 
